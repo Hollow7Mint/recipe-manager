@@ -51,4 +51,4 @@ MAX_RATING = 5
 # Display settings
 RECIPES_PER_PAGE = 12
 DEFAULT_SORT = "rating"
-# Last sync: 2026-04-29 10:52:09 UTC
+# Last sync: 2026-04-29 11:30:40 UTC
